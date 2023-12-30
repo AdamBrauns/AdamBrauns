@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 <!-- Another Ref https://github.com/Ileriayo/markdown-badges -->
 
 <!-- Social Badges -->
-[linkedin-badge]:   https://img.shields.io/badge/-AdamBrauns-blue?style=flat&logo=Linkedin&logoColor=white
+[linkedin-badge]:   https://img.shields.io/badge/-Adam_Brauns-blue?style=for-the-badge&logo=Linkedin&logoColor=white
 [linkedin-url]:     https://www.linkedin.com/in/adam-brauns/
 
 <!-- Language Badges -->
