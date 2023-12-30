@@ -1,4 +1,4 @@
-# Hi there!  <img src="assets/wave.gif" width="30px"> I'm Adam 👨‍💻
+# Hello!  <img src="assets/wave.gif" width="30px"> I'm Adam 👨‍💻
 
 [![linkedin-badge]][linkedin-url]
 
@@ -62,41 +62,51 @@ A Senior Solution Engineer from Madison, Wisconsin.
 
 ## Experience
 
+<!--
 <img align="right" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="right" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+-->
 
 - 👨‍💻 **Senior Solution Engineer**\
 📆 2023 - current\
 📍 **Silex Data Solutions** - Franklin, Tennessee
 
+<!--
 <img align="right" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Puppet-FBAB18?style=for-the-badge&logo=puppet&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+-->
 
 - 👨‍💻 **DevOps Engineer II**\
 📆 2020 - 2023\
 📍 **WPS Health Solutions** - Madison, Wisconsin
 
+<!--
 <img align="right" src="https://img.shields.io/badge/gitlab%20ci-f26223?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+-->
 
 - 👨‍💻 **DevOps Engineer**\
 📆 2018 - 2020\
 📍 **Alliant Energy** - Madison, Wisconsin
 
+<!--
 <img align="right" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="right" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+-->
 
 - 👨‍💻 **DevOps Engineer Intern**\
 📆 2017 - 2018\
 📍 **Alliant Energy** - Madison, Wisconsin
 
+<!--
 <img align="right" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+-->
 
 - 👨‍💻 **Data Science Student Employee**\
 📆 2016 - 2017\
