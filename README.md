@@ -1,8 +1,20 @@
-# Hello!  <img src="assets/wave.gif" width="30px"> I'm Adam 👨‍💻
+<!--
+Hey curious mind! Thanks for checking under the hood.
 
-[![linkedin-badge]][linkedin-url]
+If you found this helpful or inspiring:
+  - Follow me on GitHub
+  - Connect with me on LinkedIn @adam-brauns
 
-A Senior Solution Engineer from Madison, Wisconsin. 
+Cheers! -Adam
+-->
+
+# Hello!  <img src="assets/wave.gif" width="30px"> I'm Adam 👨🏻‍💻
+
+<!--
+Terminal gif website: https://www.terminalgif.com
+-->
+
+![](assets/terminal.gif)
 
 ## Languages
 
@@ -130,10 +142,6 @@ Here are some ideas to get you started:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- Badge Ref https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use -->
 <!-- Another Ref https://github.com/Ileriayo/markdown-badges -->
-
-<!-- Social Badges -->
-[linkedin-badge]:   https://img.shields.io/badge/-Adam_Brauns-blue?style=for-the-badge&logo=Linkedin&logoColor=white
-[linkedin-url]:     https://www.linkedin.com/in/adam-brauns/
 
 <!-- Language Badges -->
 [bash-badge]:       https://img.shields.io/badge/-Bash-000?&logo=gnu-bash
